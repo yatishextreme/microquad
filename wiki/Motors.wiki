@@ -4,13 +4,13 @@
 
 Comparação entre utilizar motor brushless ou DC:
 
-Vantagens motor DC:
-- melhor rendimento (torque X potencia).
+=Heading1=Vantagens motor DC:
+==Heading2==- melhor rendimento (torque X potencia).
 - melhor sensibilidade na velocidade: a sensibilidade depende do tamanho do timer do micro-controlador, por exemplo: um timer de 16bits como base de tempo no pwm que chaveia o mosfet do motor teria 65535 velocidades. Isso faz com que o controle se comporte de maneira mais contínua e menos discreta.
 - maior simplicidade no hardware de acionamento.
 - menor custo.
 
-Desvantagens motor DC:
+=Heading1=Desvantagens motor DC:
 - maior desgaste.
 - mais pesado.
 - menos torque.
