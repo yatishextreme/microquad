@@ -1,0 +1,1 @@
+msp430-bsl --invert-reset -c21 -epv -r %1.hex

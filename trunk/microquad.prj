@@ -1,0 +1,14 @@
+<project version="Crimson Editor 3.60">
+	<localfile path="C:\Program Files\Emerald Editor Community\Crimson Editor SVN286\tools\compilaLIBMSP430f2619.bat" />
+	<localfile path="C:\Program Files\Emerald Editor Community\Crimson Editor SVN286\tools\compilaMSP430f2619.bat" />
+	<localfile path="C:\Program Files\Emerald Editor Community\Crimson Editor SVN286\tools\gravaMSP2619.bat" />
+	<localfile path="C:\Users\vagina\Documents\MicroQuad\main.c" />
+	<localfile path="C:\Users\vagina\Documents\MicroQuad\pins.h" />
+</project>
+
+<workspace version="Crimson Editor 3.60">
+	<localfile path="C:\Program Files\Emerald Editor Community\Crimson Editor SVN286\tools\main.c" linenum="1" placement="0:1:-1:-1:-8:-30:25:25:771:427" />
+	<localfile path="C:\Users\vagina\Documents\MicroQuad\main.c" linenum="8" placement="2:3:-1:-1:-8:-30:50:50:800:456" />
+	<localfile path="C:\Users\vagina\Documents\MicroQuad\pins.h" linenum="2" placement="0:1:-1:-1:-8:-30:75:75:825:481" />
+</workspace>
+
