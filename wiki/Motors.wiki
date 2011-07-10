@@ -1,5 +1,3 @@
-#sidebar Motores
-
 = Introduction =
 
 Comparação entre utilizar motor brushless ou DC:
