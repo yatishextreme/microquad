@@ -17,4 +17,4 @@ Para compilar / compilar lib:
  * initial Dir: {{{$(FileDir)}}}
 
 Para Gravar, substituir porta_com-1 pelo numero da serial port que o gravador esta conctado - 1: ex.: COM12 --> 11
- * {{{$(FileTitle)}}} porta_com-1
+ * argumentos: {{{$(FileTitle)}}} porta_com-1
