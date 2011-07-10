@@ -1,7 +1,4 @@
-#sidebar Eletronics
-
 = Sensores =
-
 
 == Giroscópio ==
 LPR510AL
