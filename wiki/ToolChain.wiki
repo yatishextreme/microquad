@@ -1,5 +1,3 @@
-#sidebar Ferramentas
-
 = MSPGCC =
 Download at: [http://mspgcc.sourceforge.net/ MSPGCC]
 Incluir na variável de sistema PATH o diretório "...\mspgcc\bin"
