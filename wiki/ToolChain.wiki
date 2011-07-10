@@ -1,4 +1,4 @@
-#sidebar Ferramentas de desenvolvimento
+#sidebar "Ferramentas de desenvolvimento"
 
 = MSPGCC =
 Download at: [http://mspgcc.sourceforge.net/ MSPGCC]
