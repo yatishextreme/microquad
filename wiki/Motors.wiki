@@ -1,4 +1,4 @@
-#summary Motores DC com caixa de redução
+#sidebar Motores
 
 = Introduction =
 
