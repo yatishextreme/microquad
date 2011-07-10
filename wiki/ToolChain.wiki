@@ -13,9 +13,8 @@ comandos pra gravar, compilar library e compilar main estão junto no source.
 Dentro do Crimson's editor, no menu Tools\Preferences, é possível configurar uma tecla de atalho para rodar o .bat de compilar e gravar o programa.
 
 Para compilar / compilar lib:
- * argumentos: $(FileTitle) msp430x2619
- * initial Dir: $(FileDir)
+ * argumentos: {{{$(FileTitle)}}} msp430x2619
+ * initial Dir: {{{$(FileDir)}}}
 
 Para Gravar, substituir porta_com-1 pelo numero da serial port que o gravador esta conctado - 1: ex.: COM12 --> 11
- * $(FileTitle) porta_com-1
-
+ * {{{$(FileTitle)}}} porta_com-1
