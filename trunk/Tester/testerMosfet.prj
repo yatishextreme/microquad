@@ -1,0 +1,25 @@
+<project version="Crimson Editor 3.60">
+	<localfile path="C:\Program Files\Emerald Editor Community\Crimson Editor SVN286\tools\compilaMSP430f2619.bat" />
+	<localfile path="C:\Users\vagina\Documents\MicroQuad\Tester\delay.c" />
+	<localfile path="C:\Users\vagina\Documents\MicroQuad\Tester\delay.h" />
+	<localfile path="C:\mspgcc\msp430\include\msp430\gpio.h" />
+	<localfile path="C:\Users\vagina\Documents\MicroQuad\Tester\lcd6100.c" />
+	<localfile path="C:\Users\vagina\Documents\MicroQuad\Tester\lcd6100.h" />
+	<localfile path="C:\Users\vagina\Documents\MicroQuad\Tester\motortester.c" />
+	<localfile path="C:\Users\vagina\Documents\MicroQuad\Tester\ppm.c" />
+	<localfile path="C:\Users\vagina\Documents\MicroQuad\Tester\ppm.h" />
+	<localfile path="C:\Users\vagina\Documents\MicroQuad\Tester\timers.c" />
+	<localfile path="C:\Users\vagina\Documents\MicroQuad\Tester\timers.h" />
+</project>
+
+<workspace version="Crimson Editor 3.60">
+	<localfile path="C:\mspgcc\msp430\include\msp430\iostructures.h" linenum="5" placement="2:3:-1:-1:-8:-30:75:75:377:543" />
+	<localfile path="C:\mspgcc\msp430\include\msp430x261x.h" linenum="1" placement="0:1:-1:-1:-8:-30:100:100:402:568" />
+	<localfile path="C:\mspgcc\msp430\include\io.h" linenum="143" placement="0:1:-1:-1:-8:-30:125:125:427:593" />
+	<localfile path="C:\mspgcc\msp430\include\msp430\gpio.h" linenum="1" placement="0:1:-1:-1:-8:-30:150:150:452:618" />
+	<localfile path="C:\Program Files\Emerald Editor Community\Crimson Editor SVN286\tools\compilaLIBMSP430f2619.bat" linenum="1" placement="0:1:-1:-1:-8:-30:175:175:902:643" />
+	<localfile path="C:\Program Files\Emerald Editor Community\Crimson Editor SVN286\tools\compilaMSP430f2619.bat" linenum="1" placement="0:1:-1:-1:-8:-30:200:200:927:668" />
+	<localfile path="C:\Program Files\Emerald Editor Community\Crimson Editor SVN286\tools\compilaMSP430f2619.lst" linenum="1" placement="0:1:-1:-1:-8:-30:0:0:727:468" />
+	<localfile path="C:\Program Files\Emerald Editor Community\Crimson Editor SVN286\tools\gravaMSP2619.bat" linenum="1" placement="0:1:-1:-1:-8:-30:25:25:752:493" />
+</workspace>
+
