@@ -25,3 +25,6 @@ LoPo 1S, 850mAh, 20C
 
 == Boost ==
 TPS61040 aumenta a tensão para 8V que serve para alimentar a iluminação do Diplay e garantir que o regulador de 3.3V regule 3.3V porque a tensão da bateria varia de 4.2V a 3V.
+
+
+http://code.google.com/p/microquad/source/browse/trunk/images/Snapshot_20110723.jpg
