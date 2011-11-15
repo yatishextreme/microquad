@@ -3,14 +3,16 @@
 == Giroscópio ==
 LPR510AL
 LPY510AL
+ITG3205 (wii motion plus designers version)
 
 == Acelerômetro ==
 MMA7361
 
 = User interface =
+Possui somente display e radio
 
 == EEPROM ==
-serve pra guardar os parametros do quad
+serve pra guardar os ganhos, tempo de voo, etc
 
 == Radio ==
 Radio turnigy 8ch pra controlar o quad e navegar no menu mostrado pelo display
@@ -21,10 +23,8 @@ Nokia 6100
 = Power =
 
 == Bateria ==
-LoPo 1S, 850mAh, 20C
-
-== Boost ==
-TPS61040 aumenta a tensão para 8V que serve para alimentar a iluminação do Diplay e garantir que o regulador de 3.3V regule 3.3V porque a tensão da bateria varia de 4.2V a 3V.
+Rinno LIPO 2S, 460mAh (29g)
+Rinno LIPO 2S, 750mAh (42g)
 
 
 http://code.google.com/p/microquad/source/browse/trunk/images/Snapshot_20110723.jpg
