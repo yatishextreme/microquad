@@ -2,6 +2,10 @@
 
 Comparação entre utilizar motor brushless ou DC:
 
+== Motores Utilizados ==
+hexTronik 5gram Brushless Outrunner 2000kv
+TURNIGY Plush 6A /.8bec/6g Speed Controller
+
 ==*Vantagens motor DC:*==
  * melhor rendimento (torque X potencia).
  * melhor sensibilidade na velocidade: a sensibilidade depende do tamanho do timer do micro-controlador, por exemplo: um timer de 16bits como base de tempo no pwm que chaveia o mosfet do motor teria 65535 velocidades. Isso faz com que o controle se comporte de maneira mais contínua e menos discreta.
