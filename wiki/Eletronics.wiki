@@ -1,8 +1,10 @@
 = Sensores =
 
 == Giroscópio ==
-LPR510AL\n
-LPY510AL\n
+LPR510AL
+
+LPY510AL
+
 ITG3205 (wii motion plus designers version)
 
 == Acelerômetro ==
@@ -23,7 +25,8 @@ Nokia 6100
 = Power =
 
 == Bateria ==
-Rinno LIPO 2S, 460mAh (29g)\n
+Rinno LIPO 2S, 460mAh (29g)
+
 Rinno LIPO 2S, 750mAh (42g)
 
 
