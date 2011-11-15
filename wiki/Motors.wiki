@@ -4,6 +4,8 @@ Comparação entre utilizar motor brushless ou DC:
 
 == Motores Utilizados ==
 hexTronik 5gram Brushless Outrunner 2000kv
+
+== ESC ==
 TURNIGY Plush 6A /.8bec/6g Speed Controller
 
 ==*Vantagens motor DC:*==
