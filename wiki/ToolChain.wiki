@@ -1,13 +1,15 @@
-= MSPGCC =
+=Limited Edition (MSP430)=
+
+== MSPGCC ==
 Download at: [http://mspgcc.sourceforge.net/ MSPGCC]
 Incluir na variável de sistema PATH o diretório "...\mspgcc\bin"
 
 comandos pra gravar, compilar library e compilar main estão junto no source.
 
-= Emerald Crimson's Editor =
+=== Emerald Crimson's Editor ===
 É o mais recomendado para edição do source.
 
-== Tools ==
+==== Tools ====
 Dentro do Crimson's editor, no menu Tools\Preferences, é possível configurar uma tecla de atalho para rodar o .bat de compilar e gravar o programa.
 
 Para compilar / compilar lib:
@@ -16,3 +18,12 @@ Para compilar / compilar lib:
 
 Para Gravar, substituir porta_com-1 pelo numero da serial port que o gravador esta conctado - 1: ex.: COM12 --> 11
  * argumentos: {{{$(FileTitle)}}} porta_com-1
+
+=VERSAO 1.1 (LPC175x)=
+
+==CooCox==
+[http://www.coocox.com CooCox]
+Usa o CoIDE, ferramenta free para fazer programas para cortex M3 e M0.
+O CoLinkEx é um JTAG open-hardware que é usado para gravar e debugar o firmware, é possível comprar esta ferramenta em outros sites ou fazer.
+
+http://s18.postimage.org/7ks4xejmx/colinkex.png
