@@ -1,20 +1,18 @@
 = Introduction =
 
-Comparação entre utilizar motor brushless ou DC:
+É recomendado utilizar motores com kV baixo para quadcópteros pois isto aumenta a sensibilidade do controle. Infelizmente não é muito fácil encontrar motores micro-brushless de baixo kV. Optamos por um motor de 2000kV com hélice 5x3, pelo fato da hélice ser grande para este motor, a rotação final é menor do que a nominal, o que faz com que o motor funcione com um "kV real" menor do que 2000 (bem menor).
 
-== Motores Utilizados ==
-hexTronik 5gram Brushless Outrunner 2000kv
+Dois motores são recomendados para montar no frame do miniquad, um de 5g e outro de 10g. O de 5g é subdimensionado, ou seja, payload vai ser baixo e não vai ser capaz de se movimentar com agilidade.
+
+== MOTORS ==
+
+HexTronik 5g Brushless Outrunner 2000kV
+HexTronik 10g Brushless Outrunner 2000kV
+
 
 == ESC ==
-TURNIGY Plush 6A /.8bec/6g Speed Controller
 
-==*Vantagens motor DC:*==
- * melhor rendimento (torque X potencia).
- * melhor sensibilidade na velocidade: a sensibilidade depende do tamanho do timer do micro-controlador, por exemplo: um timer de 16bits como base de tempo no pwm que chaveia o mosfet do motor teria 65535 velocidades. Isso faz com que o controle se comporte de maneira mais contínua e menos discreta.
- * maior simplicidade no hardware de acionamento.
- * menor custo.
+TURNIGY Plush 6A
+HOBBYKING 8A
 
-==*Desvantagens motor DC:*==
- * maior desgaste.
- * mais pesado.
- * menos torque.
+
