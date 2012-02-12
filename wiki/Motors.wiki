@@ -7,12 +7,12 @@ Dois motores são recomendados para montar no frame do miniquad, um de 5g e outr
 == MOTORS ==
 
 HexTronik 5g Brushless Outrunner 2000kV
+
 HexTronik 10g Brushless Outrunner 2000kV
 
 
 == ESC ==
 
 TURNIGY Plush 6A
+
 HOBBYKING 8A
-
-
