@@ -1,33 +1,24 @@
 = Sensores =
 
 == Giroscópio ==
-LPR510AL
 
-LPY510AL
+O giroscópio utilizado precisa ser de aproximadamente 300º/s, isto melhora a sensibilidade no controle. O ponto negativo é que limita a velocidade máxima de giro em 300º/s. Se o quad receber uma perturbação maior q isso ( 300º/s ) o giroscópio vai saturar e podem ocorrer problemas, inclusive queda.
 
-ITG3205 (wii motion plus designers version)
+Na primeira versão do hardware foram usados os giroscópios LPR510AL e  LPY510AL na placa com giroscópio analógico e um ITG3205 na placa com giroscópio digital (I2C). O software para a versão digital não foi implementado, somente para os analógicos. Recentemente um dos giroscópios analógicos se tornou obsoleto.
 
-== Acelerômetro ==
-MMA7361
+O acelerômetro usado na primeira versão da placa foi um MMA7361, que também é analógico.
 
 = User interface =
-Possui somente display e radio
+A primeira versão possui somente display e radio. A nova versão do controlador possui USB, Display Nokia6100 (128x128) e SDCard que servirá tanto para datalogger quanto para configuração.
 
 == EEPROM ==
-serve pra guardar os ganhos, tempo de voo, etc
-
-== Radio ==
-Radio turnigy 8ch pra controlar o quad e navegar no menu mostrado pelo display
-
-== Display ==
-Nokia 6100
-
-= Power =
+Somente a primeira versão possui EEPROM. Serve pra guardar os ganhos, tempo de voo, etc.
 
 == Bateria ==
 Rinno LIPO 2S, 460mAh (29g)
-
 Rinno LIPO 2S, 750mAh (42g)
+Turnigy Nano-Tech 2S, 460mAh (31g) <- Recomendada para motor de 5g
+Turnigy Nano-Tech 2S, 850mAh (45g) <- Recomendada para motor de 10g
 
 
 http://code.google.com/p/microquad/source/browse/trunk/images/Snapshot_20110723.jpg
