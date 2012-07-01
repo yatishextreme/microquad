@@ -1,0 +1,12 @@
+= User interface =
+
+A primeira versão possui somente display e radio. A nova versão do controlador possui USB, Display Nokia6100 (128x128) e SDCard que servirá tanto para datalogger quanto para configuração.
+
+== EEPROM ==
+Somente a primeira versão possui EEPROM. Serve pra guardar os ganhos, tempo de voo, etc.
+
+== Bateria ==
+Rinno LIPO 2S, 460mAh (29g)
+Rinno LIPO 2S, 750mAh (42g)
+Turnigy Nano-Tech 2S, 460mAh (31g) <- Recomendada para motor de 5g
+Turnigy Nano-Tech 2S, 850mAh (45g) <- Recomendada para motor de 10g
