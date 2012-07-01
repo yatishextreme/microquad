@@ -1,0 +1,17 @@
+= Sensores =
+
+== Giroscópio ==
+
+O giroscópio utilizado precisa ser de aproximadamente 300º/s, isto melhora a sensibilidade no controle. O ponto negativo é que limita a velocidade máxima de giro em 300º/s. Se o quad receber uma perturbação maior q isso ( 300º/s ) o giroscópio vai saturar e podem ocorrer problemas, inclusive queda.
+
+=== Flajucopter Limited Edition ===
+
+Na primeira versão do hardware foram usados os giroscópios LPR510AL e  LPY510AL na placa com giroscópio analógico e um ITG3205 na placa com giroscópio digital (I2C). O software para a versão digital não foi implementado, somente para os analógicos. Recentemente um dos giroscópios analógicos se tornou obsoleto.
+
+=== OVI-C v1.1 ===
+
+Atualmente estamos utilizando o L3G4200, gyro tri-axis SPI/I2C da ST Microelectronics
+
+== Accelerometer ==
+
+O acelerômetro usado na primeira versão da placa foi um MMA7361, que também é analógico.
