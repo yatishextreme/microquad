@@ -19,11 +19,10 @@ Para compilar / compilar lib:
 Para Gravar, substituir porta_com-1 pelo numero da serial port que o gravador esta conctado - 1: ex.: COM12 --> 11
  * argumentos: {{{$(FileTitle)}}} porta_com-1
 
-=VERSAO 1.1 (LPC175x)=
+=== ECLIPSE com MSPGCC ===
 
-==CooCox==
-[http://www.coocox.com CooCox]
-Usa o CoIDE, ferramenta free para fazer programas para cortex M3 e M0.
-O CoLinkEx é um JTAG open-hardware que é usado para gravar e debugar o firmware, é possível comprar esta ferramenta em outros sites ou fazer.
+O seguinte tutorial explica como compilar e debugar o MSP430 através do Eclipse com MSPGCC. 
 
-http://s18.postimage.org/7ks4xejmx/colinkex.png
+http://springuin.nl/en/articles/launchpadwindows
+
+O debug é feito por "spy-by-wire" mas o hardware do miniquad não possui esta interface, portanto para gravar o firmware é necessário utilizar os comandos do MSPGCC para gravar por BSL.
